@@ -4,9 +4,9 @@ Genelde herkes AWS ücretsiz üyelik açıyor minimayı oraya kuruyor.. aylardı
 Digital ocean en dandik pakete kurabilirsiniz .. Google cloud ile kurmak isterseniz 9–10 dolarlık makine 1 gb ram 1 cpu bile yeterli olacaktır..
 Videoda söylemedim fakat, Contabo da sunucunuz varsa örnek veriyorum içinde Stride , Source yada başka kurulu bir node varsa onun yanına da kurabilirsiniz
 Aşağıdaki kodla kurulum başlatalım
-'''
+```
 wget -O minima_setup.sh https://raw.githubusercontent.com/minima-global/Minima/master/scripts/minima_setup.sh && chmod +x minima_setup.sh && sudo ./minima_setup.sh -r 9002 -p 9001
-'''
+```
 Başlattıkdan sonra aşağıdaki siteden üye oluyoruz
 
 Incentive Program
